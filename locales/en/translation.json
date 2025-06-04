@@ -1,0 +1,43 @@
+{
+  "select_language": "SELECT LANGUAGE",
+  "btn_lgn_en": "ENGLISH",
+  "btn_lgn_fr": "FRENCH",
+  "btn_start": "Let's go !",
+  "footer_text": "Terms of service-Legals",
+  "nav_accueil": "HOME",
+  "nav_usefull_infos": "USEFUL INFOS",
+  "intro_titre_text": "The Project AUDIT",
+  "intro_subtitre_text": "(AUtonomous Drones for InspecTion)",
+  "intro_desc_text": "Welcome to the future of offshore inspection using autonomous drone swarms, with the AUDIT (AUtonomous Drones for InspecTion) project led by Akkodis Research. Thanks to our expertise in aeronautical engineering, autonomous systems, and AI, we are revolutionizing offshore wind farm maintenance. Dive into an immersive 6-step mission, where onboard intelligence and advanced robotics work together for unparalleled efficiency.",
+  "mainMenu": {
+    "home": "Home",
+    "project": "Project",
+    "process": "Process"
+  },
+  "stepTitles": {
+    "titles": {
+      "deplacement": "1. Movement of the vessel in the wind farm",
+      "planifacations": "2. Drone trajectory planning",
+      "deploiement": "3. Drone deployment",
+      "inspections": "4. Wind turbine inspections",
+      "transfert": "5. Data transfer and analysis",
+      "fininpection": "6. End of inspection"
+    },
+    "withoutNumber": {
+      "deplacement": "Movement of the vessel in the wind farm",
+      "planifacations": "Drone trajectory planning",
+      "deploiement": "Drone deployment",
+      "inspections": "Wind turbine inspections",
+      "transfert": "Data transfer and analysis",
+      "fininpection": "End of inspection"
+    },
+    "short": {
+      "deplacement": "1. Move",
+      "planifacations": "2. Planning",
+      "deploiement": "3. Deployment",
+      "inspections": "4. Inspection",
+      "transfert": "5. Transfer",
+      "fininpection": "6. End"
+    }
+  }
+}
