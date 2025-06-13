@@ -6,7 +6,7 @@
   "footer_text": "Conditions d'utilisation-Légales",
   "nav_accueil": "ACCUEIL",
   "nav_usefull_infos": "INFOS PRATIQUES",
-  "intro_titre_text": "Le Projet AUDIT",
+  "intro_titre_text": "Des drones autonomes pilotés par intelligence artificielle dans un environnement numérique : une gestion innovante des systèmes de systèmes",
   "intro_subtitre_text": "(AUtonomous Drones for InspecTion)",
   "intro_desc_text": "Bienvenue dans le futur de l inspection offshore à l aide d essaim de drones autonomes, avec le projet AUDIT (AUtonomous Drones for InspecTion) porté par Akkodis Research. Grâce à notre expertise en ingénierie aéronautique, en systèmes autonomes et en IA, nous révolutionnons la maintenance des parcs éoliens en mer. Plongez dans une mission immersive en 6 étapes, où l’intelligence embarquée et la robotique avancée travaillent ensemble pour une efficacité inégalée",
   "stepTitles": {
@@ -33,6 +33,36 @@
       "inspections": "4. Inspection",
       "transfert": "5. Transfert",
       "fininpection": "6. Fin"
+    }
+  },
+  "rapportmaintenance": {
+    "titles": "Rapport de maintenance",
+    "matricule": "Matricule : {{number}}",
+    "step": {
+      "connexion": "Connexion du drone à la station ...",
+      "debutanalyse": "Debut analyses ...",
+      "analyse": "Analyse des images ...",
+      "composantantanalyse": "Composant a analyse ...",
+      "identification": "Identification de l'éolienne ...",
+      "decision": "Prise de décision ..."
+    },
+    "zone": {
+      "fondation": "Fondation",
+      "mat": "Mât",
+      "nacelle": "Nacelle",
+      "pale": "Pâle"
+    },
+    "detail": {
+      "composant": "Composant analysé : ",
+      "detection": "Detection : ",
+      "gravite": "Gravité estimée :",
+      "action": "Action recommandée :"
+    },
+    "gravite": {
+      "0": "",
+      "1": "Mineur",
+      "2": "Majeur",
+      "3": "Critique"
     }
   }
 }

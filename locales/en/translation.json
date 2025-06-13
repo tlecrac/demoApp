@@ -6,7 +6,7 @@
   "footer_text": "Terms of service-Legals",
   "nav_accueil": "HOME",
   "nav_usefull_infos": "USEFUL INFOS",
-  "intro_titre_text": "The Project AUDIT",
+  "intro_titre_text": "AI-Driven Autonomous Drones in a Digital Environment: Innovative Systems-of-Systems Management",
   "intro_subtitre_text": "(AUtonomous Drones for InspecTion)",
   "intro_desc_text": "Welcome to the future of offshore inspection using autonomous drone swarms, with the AUDIT (AUtonomous Drones for InspecTion) project led by Akkodis Research. Thanks to our expertise in aeronautical engineering, autonomous systems, and AI, we are revolutionizing offshore wind farm maintenance. Dive into an immersive 6-step mission, where onboard intelligence and advanced robotics work together for unparalleled efficiency.",
   "mainMenu": {
@@ -38,6 +38,36 @@
       "inspections": "4. Inspection",
       "transfert": "5. Transfer",
       "fininpection": "6. End"
+    }
+  },
+  "rapportmaintenance": {
+    "titles": "Maintenance report",
+    "matricule": "Matricule : {{number}}",
+    "step": {
+      "connexion": "Connecting the drone to the station ...",
+      "debutanalyse": "Start analyzing ...",
+      "analyse": "Pictures analyzing ...",
+      "composantantanalyse": "Analyzing component ...",
+      "identification": "Wind turbine identification ...",
+      "decision": "Get décision ..."
+    },
+    "zone": {
+      "fondation": "Foundation",
+      "mat": "Mat",
+      "nacelle": "Nacelle",
+      "pale": "Pale"
+    },
+    "detail": {
+      "composant": "Analyse Component : ",
+      "detection": "Detection : ",
+      "gravite": "Estimate gravity :",
+      "action": "Recommand action :"
+    },
+    "gravite": {
+      "0": "",
+      "1": "Minor",
+      "2": "Majour",
+      "3": "Critical"
     }
   }
 }
